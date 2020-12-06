@@ -1,4 +1,4 @@
-# PS4JB
+# Plague
 
 This is an Offline full chain exploit for PS4 firmware 6.72 with 100% Success Rate.
 
